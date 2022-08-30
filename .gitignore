@@ -18,3 +18,4 @@ go.work
 
 # Project specific
 *.app
+*.png
