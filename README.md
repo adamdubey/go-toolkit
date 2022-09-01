@@ -16,7 +16,7 @@ go get -u github.com/adamdubey/go-toolkit
 - [ ] JSON Error Response Encoder
 - [ ] JSON POST to a remote service
 - [x]  File Uploader
-- [ ] File Downloader
+- [x] File Downloader
 - [x] Directory Generator
 - [x]  Random String Generator
 - [x] URL Safe-Slug Generator
