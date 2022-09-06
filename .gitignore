@@ -19,6 +19,9 @@ go.work
 # Project specific
 *.app
 *.png
+app/
 app-upload/
 app-dir/
 app-slug/
+app-download/
+app-json/
