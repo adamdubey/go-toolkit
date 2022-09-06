@@ -19,7 +19,7 @@ go get -u github.com/adamdubey/go-toolkit
 - [ ] File Downloader
 - [x] Directory Generator
 - [x]  Random String Generator
-- [ ] URL Safe-Slug Generator
+- [x] URL Safe-Slug Generator
 
 ## Technologies & Frameworks
 
