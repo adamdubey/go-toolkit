@@ -11,10 +11,10 @@ go get -u github.com/adamdubey/go-toolkit
 
 ## Included Tools
 
-- [ ] JSON Reader
-- [ ] JSON Writer
-- [ ] JSON Error Response Encoder
-- [ ] JSON POST to a remote service
+- [x] JSON Reader
+- [x] JSON Writer
+- [x] JSON Error Response Encoder
+- [x] JSON POST to a remote service
 - [x]  File Uploader
 - [x] File Downloader
 - [x] Directory Generator
